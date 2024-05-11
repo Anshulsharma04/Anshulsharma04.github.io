@@ -7,15 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **food deivery app**
 
-- 🌱 I’m currently learning **nodejs,react**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **003anshulsharmajob@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/anshul._.sharma._." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshul._.sharma._." height="30" width="40" /></a>
+<a href="https://instagram.com/oyeitsanshul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oyeitsanshul" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
